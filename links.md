@@ -54,3 +54,11 @@
 
 [Google Deep Dream](https://github.com/google/deepdream)
 
+## Maven integration !
+
+[Aether samples](http://git.eclipse.org/c/aether/aether-demo.git/tree/aether-demo-snippets/src/main/java/org/eclipse/aether/examples)
+
+[Aether documentation](http://www.eclipse.org/aether/documentation/#examples)
+
+[Du code m2e-core](https://github.com/eclipse/m2e-core/blob/master/org.eclipse.m2e.core/src/org/eclipse/m2e/core/embedder/MavenModelManager.java)
+
